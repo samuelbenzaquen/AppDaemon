@@ -1,1 +1,6 @@
 # AppDaemon
+ - sudo apt-get install python3-pip
+ - sudo pip3 install appdaemon
+ - copy folder
+ - sudo appdaemon -c /home/hadaemon
+ - sudo apt-get install lxde-core lxappearance
